@@ -1,7 +1,10 @@
 # MONGO_URI = "mongodb://localhost:27017"
-MONGO_URL = "mongodb+srv://dharmiksoftcolon:LxklgftUrKvSjA4d@reva.9x3mbc2.mongodb.net/nse?retryWrites=true&w=majority&appName=Reva"
-DB_NAME = "market"
-COLLECTION_NAME = "candles_5m"
+# DB_NAME = "market"
+# COLLECTION_NAME = "candles_5m"
+
+MONGO_URI = "mongodb+srv://dharmiksoftcolon:LxklgftUrKvSjA4d@reva.9x3mbc2.mongodb.net/?retryWrites=true&w=majority&appName=Reva"
+DB_NAME = "nse"
+COLLECTION_NAME = "chart"
 
 TIMEZONE = "Asia/Kolkata"
 
