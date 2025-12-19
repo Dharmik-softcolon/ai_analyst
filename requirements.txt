@@ -1,0 +1,7 @@
+# requirements.txt
+pandas
+numpy
+pandas-ta
+pymongo
+scipy
+scikit-learn
